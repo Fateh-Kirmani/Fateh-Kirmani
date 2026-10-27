@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Relocation-Rawalpindi%2C%20Pakistan-58a6ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=MintCookies04&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Fateh-Kirmani&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <br>
@@ -28,7 +28,7 @@
 
 ```yaml
 name   : Syed Muhammad Fateh Kirmani
-alias  : MintCookies04
+alias  : Fateh-Kirmani
 degree : BSc Cybersecurity @ FAST-NUCES Pakistan (2022–2026)
 role   : Project Manager @ AmeriCloud Telecom Solutions
 prev   : InfoSec Intern @ Fauji Fertilizer Company (AWS · SIEM · Incident Response)
@@ -83,11 +83,11 @@ fun    : Designing the security tools I wish existed
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=MintCookies04&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-  <img height="180px" src="https://streak-stats.demolab.com/?user=MintCookies04&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Fateh-Kirmani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+  <img height="180px" src="https://streak-stats.demolab.com/?user=Fateh-Kirmani&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintCookies04&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fateh-Kirmani&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 </div>
 
 ---
@@ -95,7 +95,7 @@ fun    : Designing the security tools I wish existed
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MintCookies04&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fateh-Kirmani&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -105,10 +105,10 @@ fun    : Designing the security tools I wish existed
 | | Project | Description | Stack |
 |:---:|---|---|---|
 | 🔒 | **AEGIS LIGHT** | Lightweight IoT cryptographic framework — EDHOC + ASCON-AEAD128 + OSCORE for battlefield comms | C, Contiki-NG |
-| 🤖 | [BrotherEye](https://github.com/MintCookies04/BrotherEye) | AI-powered vulnerability analysis assistant with NVD integration & remediation engine | Python, OpenAI |
-| 💥 | [ExploiterX](https://github.com/MintCookies04/ExploiterX) | Automated vulnerability scanning & exploitation — OpenVAS + Metasploit pipeline | Python |
-| 📡 | [PySniffX](https://github.com/MintCookies04/Packet-Sniffer) | Cross-platform packet sniffer with protocol filtering, GUI & admin diagnostics | Python, Scapy |
-| 🧠 | [BATABOT](https://github.com/MintCookies04/BATABOT) | Intelligent AI assistant for Windows event log analysis & anomaly Q&A | Python, AI |
+| 🤖 | [BrotherEye](https://github.com/Fateh-Kirmani/BrotherEye) | AI-powered vulnerability analysis assistant with NVD integration & remediation engine | Python, OpenAI |
+| 💥 | [ExploiterX](https://github.com/Fateh-Kirmani/ExploiterX) | Automated vulnerability scanning & exploitation — OpenVAS + Metasploit pipeline | Python |
+| 📡 | [PySniffX](https://github.com/Fateh-Kirmani/Packet-Sniffer) | Cross-platform packet sniffer with protocol filtering, GUI & admin diagnostics | Python, Scapy |
+| 🧠 | [BATABOT](https://github.com/Fateh-Kirmani/BATABOT) | Intelligent AI assistant for Windows event log analysis & anomaly Q&A | Python, AI |
 
 ---
 
@@ -125,8 +125,15 @@ fun    : Designing the security tools I wish existed
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MintCookies04&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&radius=6" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fateh-Kirmani&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&radius=6" width="100%"/>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fateh-Kirmani/Fateh-Kirmani/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fateh-Kirmani/Fateh-Kirmani/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Fateh-Kirmani/Fateh-Kirmani/output/github-snake.svg">
+</picture>
 
 <!-- FOOTER -->
 <div align="center">
